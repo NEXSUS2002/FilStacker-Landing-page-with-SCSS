@@ -1,0 +1,40 @@
+@use "../util";
+
+h1,
+h2,
+h3 {
+    font-weight: 700;
+    line-height: 1.1;
+    margin-top: 0;
+}
+
+h1 {
+    // font-size: clamp(28px, 16px + 2vw, 40px);
+    font-size: clamp(util.rem(28), util.rem(16) + 2vw, util.rem(40));
+
+    // font-size: calc(16px + 2vw);
+
+    /* @include util.breakpoint(medium) {
+        font-size: 36px;
+    }
+
+    @include util.breakpoint(large) {
+        font-size: 42px;
+    }*/
+}
+
+h2 {
+    // font-size: clamp(22px, 14px + 1.5vw, 36px);
+    font-size: clamp(util.rem(22), util.rem(14) + 1.5vw, util.rem(36));
+}
+
+p {
+    margin-top: 0;
+    font-size: util.rem(16);
+}
+
+a,
+a:visited,
+a:active {
+    text-decoration: none;
+}
