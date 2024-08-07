@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="315" height="54" viewBox="0 0 315 54">
+  <g id="Footer_Logo" data-name="Footer Logo" transform="translate(-60 -60)">
+    <g id="Layer_1" data-name="Layer 1" transform="translate(60 60)">
+      <g id="Group_1" data-name="Group 1">
+        <path id="Path_1" data-name="Path 1" d="M133.782,219.424,103.33,232.68,72.88,219.424l11.725-1.674h0l18.723,8.15,18.723-8.15h0Z" transform="translate(-60.681 -187.303)" fill="#7393fc"/>
+        <path id="Path_2" data-name="Path 2" d="M80.556,110.42l-12.673,1.856,12.673,5.656,12.673-5.656Zm22.939,3.358-14.339,6.4-8.522,3.8-8.522-3.8-14.378-6.417L45.61,115.533l14.378,6.419,11.44,5.105,9.126,4.074,9.165-4.091,11.44-5.107,14.339-6.4-12-1.758Z" transform="translate(-37.976 -95.554)" fill="#7393fc"/>
+        <path id="Path_3" data-name="Path 3" d="M85.163,6.419,70.944,12.955,54.887,20.337,42.58,25.994l-12.3-5.657-16.02-7.365L0,6.419,42.58,0Z" fill="#7393fc"/>
+      </g>
+    </g>
+    <text id="FilStacker" transform="translate(145 103)" fill="#fef8e3" font-size="46" font-family="Raleway-Black, Raleway" font-weight="800"><tspan x="0" y="0">FilStacker</tspan></text>
+  </g>
+</svg>

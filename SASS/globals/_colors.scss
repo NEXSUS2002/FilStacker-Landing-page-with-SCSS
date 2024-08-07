@@ -1,4 +1,11 @@
 :root {
-    --background-color: "";
-    --text-color: "";
+    --background-color: hsl(47, 93%, 94%);
+    --main-bg-color: hsl(46, 96%, 89%);
+    --Overlay-background-color: hsla(47, 93%, 94%, 50%);
+    --heading-text-color: hsl(226, 96%, 72%);
+    --paragraph-text-color: hsl(226, 96%, 28%);
+    --button-background-color: hsl(46, 96%, 72%);
+    --button-text-color: hsl(46, 35%, 7%);
+    --shadow-color: hsla(45, 33%, 7%, 16%);
+    --input-border-color: hsl(0, 0%, 44%);
 }
