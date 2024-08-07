@@ -76,4 +76,3 @@ We welcome contributions to improve this project. To contribute, follow these st
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
 ```
-
